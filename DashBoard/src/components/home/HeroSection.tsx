@@ -60,7 +60,7 @@ const HeroSection = () => {
           ref={titleRef}
           className="text-3xl md:text-5xl font-light text-white opacity-0 mb-2"
         >
-          {createHoverText("Extraordinary")}
+          {createHoverText("EXtraordinary")}
           <br />
           {createHoverText("living begins here.")}
         </h1>
