@@ -8,9 +8,9 @@ import Robo from "../components/layout/Assests/Robot AI.avif";
 import Sustain from "../components/layout/Assests/Sustainbility.avif";
 import Design from "../components/layout/Assests/Design.avif";
 // Fix the image imports by using absolute paths starting with "/"
-import LivingRoom from "../components/layout/Assests/int 5.avif";
-import Modern from "../components/layout/Assests/Int 4.avif"; // Using an existing image as fallback
-import SmartHome from "../components/layout/Assests/Sustainbility.avif"; // Reusing an image, replace with actual image when available
+import LivingRoom from "../components/layout/Assests/Innovation.avif";
+import Modern from "../components/layout/Assests/Lifestyle.avif"; // Using an existing image as fallback
+import SmartHome from "../components/layout/Assests/SmartHome.avif"; // Reusing an image, replace with actual image when available
 
 interface Article {
   id: number;
